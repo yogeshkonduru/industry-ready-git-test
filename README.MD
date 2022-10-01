@@ -1,2 +1,3 @@
-## This is the git tutorials for the various test cases in it yogeh konduru
+## This is amazing git-tutorials by yogeh konduru
 ## we will learn to more about this tutorial
+## this is edited by the developer2
